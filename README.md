@@ -47,4 +47,5 @@ The processed dataset was saved as "Processed_Chocolate_Sales.csv".
 Conclusion
 
 This project successfully analyzed chocolate sales data and provided useful insights that can help improve business decisions and sales strategies.
+<img width="707" height="493" alt="image" src="https://github.com/user-attachments/assets/960bbecf-c3e5-49a5-bc3e-32444ffb2e89" />
 
